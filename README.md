@@ -8,5 +8,5 @@ The following machine learning algorithms were used for training and testing the
 - Support Vector Machine
 - Naive Bayes
 
-
+<script src="https://gist.github.com/mahidhar-rayapati/f77437a9668381c531ca8c1a88c186b8.js"></script>
 
